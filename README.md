@@ -1,4 +1,8 @@
 # Project
 
-안녕하세요. 데이터 분석하는 문과생입니다. 
-투자 전략 백테스팅과 딥러닝에 관심이 많습니다. 
+Hello, world!
+
+I'm currently studying python for data science, especially focusing on scikitlearn, pyspark and tensorflow.
+Here is the place where I archaive my works from lecture projects to my own projects using data from Kaggle, etc. 
+
+Thanks!
